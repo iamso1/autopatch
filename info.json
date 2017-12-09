@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "urls": [
+    "https://raw.githubusercontent.com/iamso1/patchs-server/master/patchs/index.js",
+    "https://raw.githubusercontent.com/iamso1/patchs-server/master/patchs/main.js"
+  ],
+  "filenames": ["index.js", "main.js"]
+}
