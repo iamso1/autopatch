@@ -33,6 +33,3 @@ function promiseDownload(src, filename, directory = '') {
   });
 }
 downloadPatchs();
-//download files
-
-// xcopy D:\testfolder\A D:\testfolder\B /y
