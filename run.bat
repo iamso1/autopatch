@@ -1,5 +1,4 @@
-cd [D:\testfolder\test]
-yarn start
-xcopy patchs [D:\testfolder\test\] /y
-yarn start
+del  patches\* /q
+del  sys\* /q
+npm  start
 pause
